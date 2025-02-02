@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет, я Александр👋
+---
+###Frontend Developer
 
 <!--
 **KyzAlexander/KyzAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
