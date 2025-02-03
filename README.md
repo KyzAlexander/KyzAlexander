@@ -2,6 +2,18 @@
 
 ### Frontend Developer
 
+#### Мои pet-projects
+
+[Форум](https://github.com/KyzAlexander/Forum)
+
+[Приложение погоды](https://github.com/KyzAlexander/App_Weather)
+
+[Приложение для заметок](https://github.com/KyzAlexander/NoteEditor)
+
+[Github Dashboard](https://github.com/KyzAlexander/DiplomReact)
+
+
+
 
 <!--
 **KyzAlexander/KyzAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
