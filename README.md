@@ -2,21 +2,27 @@
 
 ### Frontend Developer
 
-#### Мои pet-projects
+#### Мои pet-projects:
 
-#### [Форум](https://github.com/KyzAlexander/Forum)
+[#### Форум](https://github.com/KyzAlexander/Forum)
 
-#### Используемые технологии:
+Используемые технологии:
 - TyprScript, React, React-router-dom, React-icon, SASS, Redux, Redux-toolkit, Axios
 
 #### [Приложение погоды](https://github.com/KyzAlexander/App_Weather)
 
-#### Используемые технологии:
+Используемые технологии:
 - JavaScript, React, SASS, Normalize, React-icon, Redux-toolkit, Axios, API Weather, API YandexMaps
 
 #### [Приложение для заметок](https://github.com/KyzAlexander/NoteEditor)
 
+Используемые технологии:
+- TyprScript, React, SASS, Material Ui
+
 #### [Github Dashboard](https://github.com/KyzAlexander/DiplomReact)
+
+Используемые технологии:
+- JavaScript, React, React-router-dom, Redux, Redux-thunk, API Github
 
 
 
