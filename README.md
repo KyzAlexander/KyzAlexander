@@ -4,34 +4,19 @@
 
 #### Мои pet-projects
 
-[Форум](https://github.com/KyzAlexander/Forum)
+#### [Форум](https://github.com/KyzAlexander/Forum)
 
 #### Используемые технологии:
-- TyprScript
-- React
-- React-router-dom
-- React-icon
-- SASS 
-- Redux
-- Redux-toolkit
-- Axios
+- TyprScript, React, React-router-dom, React-icon, SASS, Redux, Redux-toolkit, Axios
 
-[Приложение погоды](https://github.com/KyzAlexander/App_Weather)
+#### [Приложение погоды](https://github.com/KyzAlexander/App_Weather)
 
-### Используемые технологии:
-- JavaScript
-- React
-- SASS
-- Normalize
-- React-icon
-- Redux-toolkit
-- Axios
-- API Weather
-- API YandexMaps
+#### Используемые технологии:
+- JavaScript, React, SASS, Normalize, React-icon, Redux-toolkit, Axios, API Weather, API YandexMaps
 
-[Приложение для заметок](https://github.com/KyzAlexander/NoteEditor)
+#### [Приложение для заметок](https://github.com/KyzAlexander/NoteEditor)
 
-[Github Dashboard](https://github.com/KyzAlexander/DiplomReact)
+#### [Github Dashboard](https://github.com/KyzAlexander/DiplomReact)
 
 
 
