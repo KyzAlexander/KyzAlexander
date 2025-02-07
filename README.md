@@ -4,7 +4,7 @@
 
 #### Мои pet-projects:
 
-[#### Форум](https://github.com/KyzAlexander/Forum)
+**[Форум](https://github.com/KyzAlexander/Forum)**
 
 Используемые технологии:
 - TyprScript, React, React-router-dom, React-icon, SASS, Redux, Redux-toolkit, Axios
