@@ -4,13 +4,6 @@
 
 #### Мои pet-projects:
 
-[Форум](https://github.com/KyzAlexander/Forum)
-
-Используемые технологии:
-- TyprScript, React, React-router-dom, React-icon, SASS, Redux, Redux-toolkit, Axios
-
----
-
 #### [Приложение погоды](https://github.com/KyzAlexander/App_Weather)
 
 Используемые технологии:
